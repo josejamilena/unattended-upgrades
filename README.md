@@ -1,3 +1,7 @@
+NOTE:
+When finished do that: sudo systemctl status unattended-upgrades.service
+
+
 
 Unattended upgrades
 ===================
